@@ -9,7 +9,20 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.app.music"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.app.music"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.app.music"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.app.music"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.app.music"
+    }
+  }
 }
